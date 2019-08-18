@@ -1,6 +1,6 @@
 ## All-in-One Display and Camera
 
-<iframe width="560" height="315" src="https://youtu.be/-coCBRwK7zA" frameborder="0" allowfullscreen></iframe>
+[![Video Label](https://github.com/ryuseun/allinone_dica/blob/master/All-in-One_Display_Camera_Introduction_A4_20190815.jpg)](https://youtu.be/-coCBRwK7zA) 
 
 
 
