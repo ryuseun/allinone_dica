@@ -1,8 +1,8 @@
 ## All-in-One Display and Camera
 
-[![Video Label](https://github.com/ryuseun/allinone_dica/blob/master/All-in-One_Display_Camera_Introduction_A4_20190815.jpg)](https://youtu.be/-coCBRwK7zA) 
+[![Video Label](https://github.com/ryuseun/allinone_dica/blob/master/All-in-One_Display_Camera_Introduction_A4_20190815.jpg)]
 
-
+![All-in-One Display and Camera](./All-in-One_Display_Camera_Introduction_A4_20190815.jpg)
 
 It is a Camera Integrated Display Technology.
 Fundamentally, this solution supports bezel less display design. In the teleconference, this solution supports an experience that the remote user's eyes and the viewer's eyes match. When user take a selfie, it provides a mirror effect.
