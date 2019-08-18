@@ -1,7 +1,5 @@
 ## All-in-One Display and Camera
 
-[![Video Label](https://github.com/ryuseun/allinone_dica/blob/master/All-in-One_Display_Camera_Introduction_A4_20190815.jpg)]
-
 ![All-in-One Display and Camera](./All-in-One_Display_Camera_Introduction_A4_20190815.jpg)
 
 It is a Camera Integrated Display Technology.
