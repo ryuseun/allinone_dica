@@ -7,6 +7,8 @@ Fundamentally, this solution supports bezel less display design. In the teleconf
 OLED Display Market value is expected $121 billion. 
 After 1 year, my team will sale patent license to SAMSUNG Electronics and SAMSUNG Display. In near future, my team will make product and device sale to the $121 billion values market.
 
-Contact:  ryuseun@gmail.com
-Video:  https://youtu.be/-coCBRwK7zA
+### Contact
+ryuseun@gmail.com
+### Video
+https://youtu.be/-coCBRwK7zA
 
