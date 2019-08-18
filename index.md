@@ -1,6 +1,6 @@
 ## All-in-One Display and Camera
 
-http://img.youtube.com/vi/RlQEoJaLQRA/0.jpg)
+<iframe width="560" height="315" src="https://youtu.be/-coCBRwK7zA" frameborder="0" allowfullscreen></iframe>
 
 
 
